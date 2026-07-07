@@ -20,3 +20,6 @@ The dashboard analyzes the Sample Superstore dataset using Microsoft Excel.
 
 ## Dataset
 Sample Superstore Dataset
+
+## Author
+Renuka
